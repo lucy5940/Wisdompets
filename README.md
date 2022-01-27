@@ -1,0 +1,2 @@
+# Wisdompets
+first django project
